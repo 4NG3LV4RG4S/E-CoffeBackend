@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "miNSTyxqOO8=",
+  "success": true,
+  "projectFilePath": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan_vargas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

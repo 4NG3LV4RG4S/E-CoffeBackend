@@ -1,0 +1,6 @@
+@Ixhuatlan.E_Coffe.WebApi_HostAddress = http://localhost:5163
+
+GET {{Ixhuatlan.E_Coffe.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
